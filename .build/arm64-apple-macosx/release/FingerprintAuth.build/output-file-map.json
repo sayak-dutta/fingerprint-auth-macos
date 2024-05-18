@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/Users/sayak/Developer/FingerprintAuth/.build/arm64-apple-macosx/release/FingerprintAuth.build/FingerprintAuth.d",
+    "object": "/Users/sayak/Developer/FingerprintAuth/.build/arm64-apple-macosx/release/FingerprintAuth.build/FingerprintAuth.o",
+    "swift-dependencies": "/Users/sayak/Developer/FingerprintAuth/.build/arm64-apple-macosx/release/FingerprintAuth.build/master.swiftdeps"
+  },
+  "/Users/sayak/Developer/FingerprintAuth/Sources/main.swift": {
+    "object": "/Users/sayak/Developer/FingerprintAuth/.build/arm64-apple-macosx/release/FingerprintAuth.build/main.swift.o",
+    "swiftmodule": "/Users/sayak/Developer/FingerprintAuth/.build/arm64-apple-macosx/release/FingerprintAuth.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/sayak/Developer/FingerprintAuth/.build/arm64-apple-macosx/release/FingerprintAuth.build/main.swiftdeps"
+  }
+}
