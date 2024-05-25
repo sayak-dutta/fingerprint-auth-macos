@@ -1,5 +1,0 @@
-version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
-options: "7dc6e293c958ed1b8287f681edc8780d"
-build_time: [1716063350, 793348000]
-inputs:
-  "/Users/sayak/Developer/FingerprintAuth/Sources/main.swift": [9223372036, 854775807]
